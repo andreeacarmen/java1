@@ -1,0 +1,8 @@
+
+public class Animal {
+	boolean hungry=true;
+	public void feed(String str){
+		
+	}
+		
+}

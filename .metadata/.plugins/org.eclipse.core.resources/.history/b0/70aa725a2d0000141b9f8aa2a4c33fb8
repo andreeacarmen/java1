@@ -1,0 +1,17 @@
+
+import pack1.*;
+
+public class FirstClass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Client cl=new Client();
+		cl.name="lala";
+		PostOffEmp postas= new PostOffEmp();
+		System.out.print("hei");
+		System.out.println("hei");
+	}
+
+}

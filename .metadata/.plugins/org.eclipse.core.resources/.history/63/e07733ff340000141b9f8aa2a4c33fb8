@@ -1,0 +1,10 @@
+
+public class Client {
+
+	String name;
+	String pack;
+	public void sendReq(String pack){
+		this.pack=pack;
+		
+	}
+}
